@@ -3,6 +3,8 @@ I used TomEE as my server of choice to avoid known issues with Glassfish and hig
 The examples is based on the lecture on 02/12/2020 and covers basic annotations in JAX-RS.
 
 Some NOTES:
+---
+
 0. There is no web.xml file under the web directory as everything is configured via annotaions.
 
 1. If you use a Glassfish server, remember that there are known compatibility issues for Glassfish 5+ with JDK 9+.
