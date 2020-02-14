@@ -12,7 +12,7 @@ For lower versions of JDK you might struggle getting JDK working with IntelliJ s
 It can be done but can turn painful soon. I recommend using TomEE Plume as your server. 
 NOT Tomcat, but TomEE. Tomcat does not come with REST modules packed in, so you have to go shopping for it again. So avoid Tomcat.
 
-2. I also recommend checking this guide out if you are working with IntelliJ for the first time. 
+2. I also recommend checking this [guide](https://www.jetbrains.com/help/idea/creating-and-running-your-first-restful-web-service.html) out if you are working with IntelliJ for the first time. 
 The guide assumes you have Glassfish installed. Also notice the Glassfish version is 4.+.
 
 3. While accessing the URLs in your browser, notice how the URLs are constructed.
