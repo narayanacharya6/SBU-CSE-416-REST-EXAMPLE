@@ -1,3 +1,7 @@
+For the Eclipse based setup [read](README-ECLIPSE.docx)
+
+Read below for guide for IntelliJ.
+
 This is a simple REST example for CSE-416 using JAX-RS built using IntelliJ as my IDE.
 I used TomEE as my server of choice to avoid known issues with Glassfish and higher versions of JDK.
 The examples is based on the lecture on 02/12/2020 and covers basic annotations in JAX-RS.
